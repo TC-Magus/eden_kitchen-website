@@ -307,4 +307,18 @@ Nav
                                                 <li><a href="receipe-post.html">Stove Center</a></li>
                                               
                                             </ul>
-                                           
+
+
+    youtube 
+
+  <a href="https://youtube.com/@edenkitchenug?si=r04KlfLJpSouSXPT"  target="_blank" 
+                                rel="noopener noreferrer">
+                                  <i class="fa fa-youtube" aria-hidden="true"></i>
+                                </a> 
+   
+   Linkedin
+
+     <a href="http://www.linkedin.com/in/eden-kitchen-025151375"  target="_blank" 
+                                rel="noopener noreferrer">
+                                  <i class="fa fa-youtube" aria-hidden="true"></i>
+                                </a> 
